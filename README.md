@@ -9,8 +9,8 @@ The data look like this:
 The candidate is expected to create a solution - a proof of concept, using Python, to cluster (or simply group) those addresses where they belong to the same location. Candidate is free to use any machine learning model, or hand-crafting solutions to show how the candidate would approach to solve this problem.
 
 Instructions:
- - Clone or add a public GitHub repo for the solution
- - The solution will open/read the location data and output the grouped/clustered result.
+ - Clone this repo or create a new public GitHub repo for the solution.
+ - The solution will open/read the location data CSV file and write the grouped/clustered result in a result CSV file.
  - There's no restriction on how the candidate would choose to approach the problem.
 
 Please email to: long@shake.io if you have any questions.
