@@ -10,7 +10,7 @@ The candidate is expected to create a solution - a proof of concept, using Pytho
 
 Instructions:
  - Clone this repo or create a new public GitHub repo for the solution.
- - The solution will open/read the location data CSV file and write the grouped/clustered result in a result CSV file.
+ - The solution will open/read the location data CSV file and write the grouped/clustered result in an output CSV file.
  - There's no restriction on how the candidate would choose to approach the problem.
 
 Please email to: long@shake.io if you have any questions.
