@@ -1,7 +1,7 @@
 ### The Locations clustering POC
 Locations clustering proof-of-concept test task.
 
-Given that we have a dataset which has around 60k of location addresses, including city, road, house_number, postcode and state: [Locations dataset](https://drive.google.com/file/d/11sPSrssE39CPN73amoFvzosuAJpjyBqG/view?usp=sharing)
+Given that we have a dataset which has around 60k of **location addresses**, including *city*, *road*, *house_number*, *postcode* and *state*: [Locations dataset](https://drive.google.com/file/d/11sPSrssE39CPN73amoFvzosuAJpjyBqG/view?usp=sharing)
 
 The data look like this:
 ![data](https://user-images.githubusercontent.com/25924/177707968-c6143674-c9ca-4057-8c8a-a565dc7169fd.png)
