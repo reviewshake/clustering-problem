@@ -18,7 +18,7 @@ The original locations data look like this:
 
 The candidate is expected to create a solution - a proof of concept, using Python, to cluster (or simply group) those addresses where they belong to the same place (same address). Candidate is free to implement any machine learning model, or hand-crafting solutions to show how the candidate would approach to solve this problem.
 
-For example, these records below could be **scattered** around the orignal locations CSV, and we want to "group" or "link" them together into their own single address cluster with the same house number on the same road, and don't remove the duplicates:
+For example, these records below could be **scattered** around the orignal locations CSV, and we want to "group" or "link" them together into their own single address cluster with the same house number on the same road, and don't remove the duplicates. The primary challenge is that some of the entries are written differently than others: e.g. "fairview rd" vs "fairview road", or "south carolina" vs "sc".
 
 ### Example of how the an output could look like:
 |city        |road           |house_number|postcode  |state         |cluster_id|record_idx|
